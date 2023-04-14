@@ -161,8 +161,8 @@ $ zphisher
 ##
 
 
-### *Thanks to all contributors*:
-htr-tech
+### *Thanks to htr-tech*:
+
 
 
 <!-- // -->
