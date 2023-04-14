@@ -155,7 +155,7 @@ $ zphisher
 
 <h3 align="center"><i>:: Workflow ::</i></h3>
 <p align="center">
-<img src=".github/misc/workflow.gif"/>
+<img src="github/misc/workflow.gif"/>
 </p>
 
 ##
